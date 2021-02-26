@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Solda"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/20200202_111144.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Feeling about **memory**"
   location         : "How can I go forward when 
                       I don't know which way I'm facing?"
