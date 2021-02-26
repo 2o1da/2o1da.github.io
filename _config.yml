@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SOL GIT"
+title                    : "솔깃"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "SOL GIT" # site tagline that appears below site title in masthead
 name                     : "Dasol Kim"
 description              : "An amazing website."
 url                      : "https://2o1da.github.io"
@@ -100,7 +100,7 @@ author:
   location         : "How can I go forward when I don't know which way I'm facing?"
   email            : "solda@khu.ac.kr"
   links:
-    - label: "Email"
+    - label: "solda@khu.ac.kr"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Website"
